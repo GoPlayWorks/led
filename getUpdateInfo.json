@@ -3,7 +3,7 @@
 	"message": "",
 	"data": {
 		"versionCode": 3,
-		"version": "0.2.2",
+		"version": "0.0.3",
 		"desc": "测试升级 ",
 		"type": 1,
 		"source": "https://raw.githubusercontent.com/GoPlayWorks/led/master/com.led.flashlight.compass_0.0.3.apk"
